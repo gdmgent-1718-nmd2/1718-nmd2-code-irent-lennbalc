@@ -1,0 +1,13 @@
+- title: Home
+  url: /index.html
+- title: Team
+  url: /team.html
+- title: Series
+  url: /series
+  sublinks:
+    - title: dr. Who
+      url: /series/drwho.html
+    - title: Dexter
+      url: /series/dexter.html
+- title: Contact
+  url: /contact.html
